@@ -1,0 +1,20 @@
+{
+  "name": "@genzouw/github-packages-sample-module",
+  "version": "1.0.0",
+  "description": "Sample npm module for GitHub Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genzouw/github-packages-sample-module.git"
+  },
+  "keywords": [],
+  "author": "genzouw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genzouw/github-packages-sample-module/issues"
+  },
+  "homepage": "https://github.com/genzouw/github-packages-sample-module#readme"
+}
